@@ -6,7 +6,6 @@ Welcome to my portfolio! I am Hisham, a junior backend developer dedicated to bu
 ## Table of Contents
 - [Projects](#projects)
 - [Goals](#goals)
-- [Favorite Videos](#favorite-videos)
 - [Contact](#contact)
 
 ## About Me
@@ -40,10 +39,6 @@ This section showcases some of the projects I've worked on:
 - **Content Creator:** Produce engaging technical content, including tutorials and blogs.
 - **Teaching Tech:** Share knowledge through mentoring and workshops to empower aspiring developers.
 
-## Favorite Videos
-Here are some of my favorite tech-related videos that inspire my work:
-- [Video 1 Title](https://www.youtube.com/watch?v=VIDEO_ID_1)
-- [Video 2 Title](https://www.youtube.com/watch?v=VIDEO_ID_2)
 
 ## Contact
 Feel free to reach out to me:
