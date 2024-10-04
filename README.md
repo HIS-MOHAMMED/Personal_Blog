@@ -1,7 +1,8 @@
 # Personal_Blog
+
 ![Screenshot from 2024-10-04 17-37-45](https://github.com/user-attachments/assets/dab4a803-0d35-4580-ab1d-467d8a76a985)
 
-Welcome to my portfolio! I am Hisham, a junior backend developer dedicated to building life-changing websites and applications. This repository showcases my projects and achievements.
+## To visit my personal website: [Personal-Blog](https://his-mohammed.github.io/Personal_Blog/)
 
 ## Frontend Technologies
 - **HTML**: Used for structuring the content of the web pages, providing a semantic layout for the portfolio.
